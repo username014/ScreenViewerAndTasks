@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Application type 1</string>
+    <string name="screen_2">Screen 2</string>
+    <string name="button">Button</string>
+    <string name="view2">This is the second screen</string>
+    <string name="button2">To screen 1</string>
+</resources>
